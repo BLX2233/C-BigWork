@@ -1,3 +1,3 @@
 # C-BigWork
 
-用Easyx写的C语言大作业
+用Easyx写的飞翔的小鸟
